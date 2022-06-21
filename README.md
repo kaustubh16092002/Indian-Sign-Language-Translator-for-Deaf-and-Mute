@@ -22,7 +22,7 @@ www.dropbox.com/sh/52eb9rhpdmbvj5h/AAC2qo9oBAbWj8zCto6PXlroa?dl=0
 - Bag of Visual Words(BoVW) by Aybüke Yalçıner [post](https://medium.com/@aybukeyalcinerr/bag-of-visual-words-bovw-db9500331b2f)
 - https://www.iosrjournals.org/iosr-jce/papers/Vol22-issue3/Series-1/B2203011419.pdf
 - Algorithms such as bag of visual words, RGB to HSV color space conversion, canny edge detection for sharp edge detection, feature extraction models such   as SURF and SIFT, k means clustering techniques, naive bayes, logistic regression, k nearest neighbors, support vector machine and CNN were used.
-- 
+
 
 
 
